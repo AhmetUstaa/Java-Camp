@@ -8,16 +8,16 @@ public class Main {
 		int number2 = 25;
 		int number3 = 2;
 		int theBiggest = number1;
-		
-		if(theBiggest<number2) {
+
+		if (theBiggest < number2) {
 			theBiggest = number2;
 		}
-		
-		if(theBiggest<number3) {
+
+		if (theBiggest < number3) {
 			theBiggest = number3;
 		}
-		
-		System.out.println("theBiggest = "+theBiggest);
 
-	} 
+		System.out.println("theBiggest = " + theBiggest);
+
+	}
 }
