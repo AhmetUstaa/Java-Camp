@@ -11,21 +11,29 @@ public class hw27LoopDemo {
 		for (int i = 1; i < 10; i++) {
 			System.out.println(i);
 		}
-		System.out.println("It's over.");
+		System.out.println("For Loop It's over.");
 
 		// While
-		//A defined variable is only valid 
-		//in the code block in which it is defined.
-		//This condition will always be 1 and will cause an infinite loop. 
+		// A defined variable is only valid
+		// in the code block in which it is defined.
+		// This condition will always be 1 and will cause an infinite loop.
 		int i = 1;
 		while (i < 10) {
 			System.out.println(i);
 			i++;
 		}
-		System.out.println("It's over.");
-		//If we want to print even numbers --> int i=2; and i+=2
-		
+		System.out.println("While Loop It's over.");
+		// If we want to print even numbers --> int i=2; and i+=2
 
+		// Do-While
+		// The loop will run 1 time even if the condition is not met.
+		int j = 1;
+		do {
+			//System.out.println("This process was logged.");
+			System.out.println(j);
+			j += 2;
+		} while (j < 10);
+		System.out.println("Do-While Loop It's over.");
 	}
 
 }
