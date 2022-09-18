@@ -1,6 +1,17 @@
-# JavaCamp2022
+# About Repository
 
-This repo contains the code developed during Engin Demiroğ's Java Camp classes and the assignments and project given by the instructor.
+This repository contains Java Bootcamp documentation like lesson codes, assignments, and final project. Also i will **try** to give to you extra tips about java programming language informations on a daily basis. 
 
-    - Platform : https://www.kodlama.io
+    - Publisher : https://www.kodlama.io
     - Youtube : https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ
+    - Instructor : https://www.linkedin.com/in/engindemirog/
+    - Bootcamp Date : 09/14/2022
+    
+    
+    
+# Notes : Day 1
+
+
+    
+    
+    
