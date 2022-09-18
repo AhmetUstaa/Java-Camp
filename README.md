@@ -17,7 +17,9 @@ This repository contains Java Bootcamp documentation like lesson codes, assignme
 
 > You have to be careful about this scenario. You have to write code like this **System.out.println(variableName)** when you try to print any variable. Not like this **System.out.println("variableName")**. If you want to try, try if you dare.
 
-> Java is a Case Sensitive language.
+> Java is a **Case Sensitive** language. Which means variable "a" different between variable "A".
+
+> 
 
 
     
