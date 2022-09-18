@@ -19,7 +19,23 @@ This repository contains Java Bootcamp documentation like lesson codes, assignme
 
 > Java is a **Case Sensitive** language. Which means *variable = "a"* different between *variable = "A"*.
 
-> 
+> Reusability is an important method in programming. 
+
+> Variable names should be clear for readability when performing reverse engineering activities. Abbreviations should be avoided.
+
+> Some information about **Data Types**.
+
+|Data Type| 	Size 	|Description|Example|Notes|
+|---------|-------------|-----------|-------|-----|
+|byte| 	1 byte |	Stores whole numbers from -128 to 127|byte number = 127;||
+|short| 	2 bytes 	|Stores whole numbers from -32,768 to 32,767|short number = 32767; ||
+|int| 	4 bytes 	|Stores whole numbers from -2,147,483,648 to 2,147,483,647|int number = 1881;||
+|long 	|8 bytes 	|Stores whole numbers from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807|long tcIdNumber = 12345678910|Best practice it should be the String|
+|float 	|4 bytes 	|Stores fractional numbers. Sufficient for storing 6 to 7 decimal digits|float number = -0,05; ||
+|double |	8 bytes 	|Stores fractional numbers. Sufficient for storing 15 decimal digits|long number = 0,01234567897894561;||
+|boolean |	1 bit 	|Stores true or false values|boolean isThatTrue = true;||
+|char 	|2 bytes 	|Stores a single character/letter or ASCII values|char value = 'J';||
+  
 
 
     
