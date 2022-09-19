@@ -34,8 +34,29 @@ This repository contains Java Bootcamp documentation like lesson codes, assignme
 |float 	|4 bytes 	|Stores fractional numbers. Sufficient for storing 6 to 7 decimal digits|float number = -0,05; ||
 |double |	8 bytes 	|Stores fractional numbers. Sufficient for storing 15 decimal digits|long number = 0,01234567897894561;||
 |boolean |	1 bit 	|Stores true or false values|boolean isThatTrue = true;||
-|char 	|2 bytes 	|Stores a single character/letter or ASCII values|char value = 'J';||
+|char 	|2 bytes 	|Stores a single character/letter or ASCII values|char value = 'J';|Should be '', ASCII|
+
+
+> Should be use **==** when you want to **control** about equal **condition**, otherwise an equal symbol is to assign a value.
+
+> About Defensive Programming;
+
+    1- Never trust user datas and inputs. 
+    2- Determine the data types. Double-check is necessary.
+    3- When the developer changes, the way they work and their attention will not be the same. Have the written methods checked at each layer.
+    4- Follow the SOLID rules. [Also check](https://gokhana.medium.com/solid-nedir-solid-yaz%C4%B1l%C4%B1m-prensipleri-nelerdir-40fb9450408e)
+        - S ----> Single Responsibility
+        - O ----> Open / Closed
+        - L ----> Liskov's Substitution
+        - I ----> Interface Segregation
+        - D ----> Dependency Inversion
+
+   [Also check about SOLID Software Development](https://gokhana.medium.com/solid-nedir-solid-yaz%C4%B1l%C4%B1m-prensipleri-nelerdir-40fb9450408e)
   
+  > You can write codes like this when you want to give to user same output sometimes;
+  
+        case 'B':
+		case 'C':
 
 
     
