@@ -14,4 +14,4 @@
 * Adım 14 - Yorum satırına dilediğiniz yorumu yazın.
 * Adım 15 - Sağ altta commit butonuna basın.
 * Adım 16 - Çıkan ekranda close butonuna basın.
-* Adım 17 - Github hesabınızı kontrol edin.
+* Adım 17 - Github hesabınızı kontrol edin. 
