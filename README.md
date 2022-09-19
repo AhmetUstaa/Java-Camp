@@ -44,7 +44,7 @@ This repository contains Java Bootcamp documentation like lesson codes, assignme
     1- Never trust user datas and inputs. 
     2- Determine the data types. Double-check is necessary.
     3- When the developer changes, the way they work and their attention will not be the same. Have the written methods checked at each layer.
-    4- Follow the SOLID rules. [Also check](https://gokhana.medium.com/solid-nedir-solid-yaz%C4%B1l%C4%B1m-prensipleri-nelerdir-40fb9450408e)
+    4- Follow the SOLID rules. 
         - S ----> Single Responsibility
         - O ----> Open / Closed
         - L ----> Liskov's Substitution
