@@ -55,10 +55,10 @@ This repository contains Java Bootcamp documentation like lesson codes, assignme
   
   > You can write codes like this when you want to give to user same output sometimes;
   
-        case 'B':
-	case 'C':
+ 	case 'B':
+ 	case 'C':
 
-
+  > 	
     
     
     
