@@ -1,3 +1,5 @@
+!! Not Authorized Hatası Alıyorsanız Adım 9 da Password Yerine Oluşturmuş Olduğunuz Token ı Yazmadığınızdan Dolayıdır !!
+
 * Adım 1  - Githubta bir repository oluşturun.
 * Adım 2  - Github ayarlara gidin orada solda en altta developer settings gibi bir bölüm var tıklayın.
 * Adım 3  - Çıkan ekranda solda token yazacak tıklayın.
