@@ -9,7 +9,7 @@ This repository contains Java Bootcamp documentation like lesson codes, assignme
     
     
     
-# Extra tips about Week 1 works on lesson and homework;
+# Extra tips about week 1 works on lesson and homework;
 
 > In the Java programming language, variable names are written as **camelCase**.
 
