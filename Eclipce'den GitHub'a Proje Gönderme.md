@@ -15,3 +15,5 @@
 * Adım 15 - Sağ altta commit and push butonuna basın.
 * Adım 16 - Çıkan ekranda close butonuna basın.
 * Adım 17 - Github hesabınızı kontrol edin. 
+
+Not: Projenizde revizyon yaptığınızda Adım 11 den itibaren takip ederek github reponuzu güncelleyebilirsiniz.
