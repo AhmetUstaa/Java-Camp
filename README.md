@@ -1,6 +1,6 @@
 # About Repository
 
-This repository contains Java Bootcamp documentation like lesson codes, assignments, and final project. Also i will **try** to give to you extra tips about java programming language informations on a daily basis. 
+This repository contains Java Bootcamp documentation like lesson codes, assignments, and final project. Also i will **try** to give to you extra tips about java programming language informations on a weekly basis. 
 
     - Publisher : https://www.kodlama.io
     - Youtube Channel : https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ
@@ -9,7 +9,7 @@ This repository contains Java Bootcamp documentation like lesson codes, assignme
     
     
     
-# Extra tips about Day 1 works on lesson and homework;
+# Extra tips about Week 1 works on lesson and homework;
 
 > In the Java programming language, variable names are written as **camelCase**.
 
