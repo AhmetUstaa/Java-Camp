@@ -58,7 +58,39 @@ This repository contains Java Bootcamp documentation like lesson codes, assignme
  	case 'B':
  	case 'C':
 
-  > 	
+  > The **switch case** structure was created as an alternative to the if-else structure. Instead of creating long if else conditions, we can make a short program with the switch case structure. But we can't use switch case in conditions where there is a range, switch case checks the value directly.
+  
+  > * For Loop Definition;
+  >     * for(int i = 1; i < 10; i++);
+  >          * int i = 1 ---> counter definition
+  >          * i < 10 ------> condition
+  >          * i++ ---------> amount of the increase
+  
+  > While / Do-While Loop [ check about ](https://github.com/AhmetUstaa/JavaCamp2022/blob/master/javaCampHomeworks2022/Week1Homework/Week1Homework/hw27LoopDemo.java)
+  
+  > String name -----> one string
+  > String[] --------> single line array
+  > String[][] ------> column +
+  
+  > Nested Loop [check about](https://github.com/AhmetUstaa/JavaCamp2022/blob/master/javaCampHomeworks2022/Week1Homework/Week1Homework/hw210MultiDimensionalArrayDemo.java)
+  
+   |Method|Description|Example|
+   |------|-----------|-------|
+   |charAt()|The charAt() method returns the character at a specified index (position) in a string.|[check](https://github.com/AhmetUstaa/JavaCamp2022/blob/master/javaCampHomeworks2022/Week1Homework/Week1Homework/hw211StringsDemo.java)|
+   |concat()|The concat() method is used to merge two or more arrays. This method does not change the existing arrays, but instead returns a new array.|[check](https://github.com/AhmetUstaa/JavaCamp2022/blob/master/javaCampHomeworks2022/Week1Homework/Week1Homework/hw211StringsDemo.java)|
+   |startsWith()|The startsWith() method checks whether a string starts with the specified character(s).|[check](https://github.com/AhmetUstaa/JavaCamp2022/blob/master/javaCampHomeworks2022/Week1Homework/Week1Homework/hw211StringsDemo.java)|
+   |endsWith()|The endsWith() method checks whether a string ends with the specified character(s).|[check](https://github.com/AhmetUstaa/JavaCamp2022/blob/master/javaCampHomeworks2022/Week1Homework/Week1Homework/hw211StringsDemo.java)|
+   |getChars()|The Java String class getChars() method copies the content of this string into a specified char array.|[check](https://github.com/AhmetUstaa/JavaCamp2022/blob/master/javaCampHomeworks2022/Week1Homework/Week1Homework/hw211StringsDemo.java)|
+   |indexOf()|The indexOf() method returns the position of the first occurrence of specified character(s) in a string.|[check](https://github.com/AhmetUstaa/JavaCamp2022/blob/master/javaCampHomeworks2022/Week1Homework/Week1Homework/hw211StringsDemo.java)|
+   |lastIndexOf()|The lastIndexOf() method returns the position of the last occurrence of specified character(s) in a string.|[check](https://github.com/AhmetUstaa/JavaCamp2022/blob/master/javaCampHomeworks2022/Week1Homework/Week1Homework/hw211StringsDemo.java)|
+   |replace()|The Java String class replace() method returns a string replacing all the old char or CharSequence to new char or CharSequence.|[check](https://github.com/AhmetUstaa/JavaCamp2022/blob/master/javaCampHomeworks2022/Week1Homework/Week1Homework/hw211StringsDemo.java)|
+   |substring()|The substring() method extracts a substring from the string and returns it.|[check](https://github.com/AhmetUstaa/JavaCamp2022/blob/master/javaCampHomeworks2022/Week1Homework/Week1Homework/hw211StringsDemo.java)|
+   |split()|The java string split() method splits this string against given regular expression and returns a char array.|[check](https://github.com/AhmetUstaa/JavaCamp2022/blob/master/javaCampHomeworks2022/Week1Homework/Week1Homework/hw211StringsDemo.java)|
+   |trim()|The trim() method removes whitespace from both ends of a string.|[check](https://github.com/AhmetUstaa/JavaCamp2022/blob/master/javaCampHomeworks2022/Week1Homework/Week1Homework/hw211StringsDemo.java)|
+   |toLower()|The toLowerCase() method converts a string to lower case letters.|[check](https://github.com/AhmetUstaa/JavaCamp2022/blob/master/javaCampHomeworks2022/Week1Homework/Week1Homework/hw211StringsDemo.java)|
+   |toUpper()|The toUpperCase() method converts a string to upper case letters.|[check](https://github.com/AhmetUstaa/JavaCamp2022/blob/master/javaCampHomeworks2022/Week1Homework/Week1Homework/hw211StringsDemo.java)|
+   
+   
     
     
     
