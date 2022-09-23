@@ -91,6 +91,11 @@ This repository contains Java Bootcamp documentation like lesson codes, assignme
    |toUpper()|The toUpperCase() method converts a string to upper case letters.|[check](https://github.com/AhmetUstaa/JavaCamp2022/blob/master/javaCampHomeworks2022/Week1Homework/Week1Homework/hw211StringsDemo.java)|
    
    
+# Extra tips about week 2 works on lesson and homework;
+
+to be continued...
+   
+   
     
     
     
