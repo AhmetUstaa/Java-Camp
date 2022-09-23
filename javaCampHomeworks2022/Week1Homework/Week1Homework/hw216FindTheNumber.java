@@ -13,7 +13,7 @@ public class hw216FindTheNumber {
 				break;
 			}
 		}
-		if (anyHave) {
+		if (anyhave) {
 			System.out.println("I am hereeeee!!!!");
 		} else {
 			System.out.println("Nope, try again loooooser :)");
