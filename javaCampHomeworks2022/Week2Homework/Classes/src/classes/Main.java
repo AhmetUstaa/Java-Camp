@@ -25,10 +25,19 @@ public class Main {
 
 }
 
-// Try to solve this problem 
+// Value type variables are store in Stack.
+// Arrays are reference types.
+
+// Try to solve these problems 
 
 // int sayil 10 ;
 // int sayi2 = 20 ;
 // sayi2 = sayil ;
 // sayil -30 ;
 // System.out.println ( sayi2 ) ; ?? 
+
+// int [ ] sayilarl = new int [ ] { 1,2,3 ) ;
+// int [ ] sayilar2 new int [ ] 14,5,6 ) ;
+// sayilar2 = sayilarl ;
+// sayilar1 [ 0 ] = 10 ;
+// System.out.println ( sayilar2 [ 0 ] ) ;
