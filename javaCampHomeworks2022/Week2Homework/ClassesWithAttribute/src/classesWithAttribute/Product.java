@@ -1,16 +1,31 @@
 package classesWithAttribute;
 
 public class Product {
+	// If you give the values inside the Product method, you can use this method.
+	public Product(int id, String name, String description, int stockAmount, double price, String colour) {
+		System.out.println("The Constructor run.");
+		this.id = id;
+		this.colour = colour;
+		this.description = description;
+		this.price = price;
+		this.stockAmount = stockAmount;
+		this.name = name;
+	}
+
+	// Overloading
+	public Product() {
+
+	}
 
 	// attribute | field
 	// Private means that it is only valid in the block where it is defined.
-	 int id;
-	 String name;
-	 String description;
-	 double price;
-	 int stockAmount;
-	 String colour;
-	 String productCode;
+	int id;
+	String name;
+	String description;
+	double price;
+	int stockAmount;
+	String colour;
+	String productCode;
 
 	// getter
 	// This means read-only that the id.
