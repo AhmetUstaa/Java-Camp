@@ -13,7 +13,7 @@ public class Main {
 		 */
 		
 		CustomerManager customerManager = new CustomerManager(new FileLogger());
-		customerManager.Add();
+		customerManager.add();
 	}
 
 }
