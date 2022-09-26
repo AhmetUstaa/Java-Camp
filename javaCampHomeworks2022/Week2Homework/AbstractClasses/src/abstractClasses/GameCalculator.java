@@ -6,7 +6,7 @@ public abstract class GameCalculator {
 	public final void gameOver() {
 		System.out.println("Game Over!!!");
 	}
-
+	
 }
 
 //When Abstract is written, it enforces the calculate method. 

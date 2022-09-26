@@ -6,7 +6,5 @@ public class Main {
 		WomanGameCalculator womanGameCalculator = new WomanGameCalculator();
 		womanGameCalculator.calculate();
 		womanGameCalculator.gameOver();
-
 	}
-
 }
