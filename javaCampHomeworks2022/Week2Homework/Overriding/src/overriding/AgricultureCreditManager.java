@@ -1,5 +1,5 @@
 package overriding;
 
-public class AgricultureCreditManager extends BaseCreditManager {
+public class AgricultureCreditManager  extends BaseCreditManager {
 
 }
