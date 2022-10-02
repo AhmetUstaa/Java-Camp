@@ -8,4 +8,4 @@ This repository contains Java Bootcamp documentation like lesson codes, assignme
     - Bootcamp Date : 09/14/2022
     
 
-> [PLEASE CLICK HERE TO REVIEW THE NOTES TAKEN DURING THE TRAINING.](https://github.com/AhmetUstaa/Java-Camp/tree/master/README) :point_left:
+> :point_right: [PLEASE CLICK HERE TO REVIEW THE NOTES TAKEN DURING THE TRAINING.](https://github.com/AhmetUstaa/Java-Camp/tree/master/README) :point_left:
